@@ -29,8 +29,8 @@
 #define HREF_GPIO_NUM  12
 #define PCLK_GPIO_NUM  7
 
-const char *ssid = "laskalab";
-const char *password = "laskaLAB754125";
+const char *ssid = "xxxx";
+const char *password = "xxxx";
 
 void startCameraServer();
 void setupLedFlash(int pin);
