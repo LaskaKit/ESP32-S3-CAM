@@ -1,1 +1,1 @@
-# ESPCam-LPkit
+# ESP32-S3-CAM
